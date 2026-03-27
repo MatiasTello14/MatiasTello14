@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Matias Tello 👋
 
-<!--
-**MatiasTello14/MatiasTello14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador Full Stack | Apasionado por el Fitness y la Tecnología
 
-Here are some ideas to get you started:
+Soy un desarrollador enfocado en construir soluciones robustas y escalables. Me especializo en el ecosistema **Java/Spring Boot**, pero cuento con experiencia sólida en **Node.js, .NET y Desarrollo Mobile**. Mi objetivo es aportar valor en equipos dinámicos donde el código de calidad y la mejora continua sean la prioridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+| Backend | Frontend & Mobile | Bases de Datos & Tools |
+| :--- | :--- | :--- |
+| **Java** (Spring Boot, Security, JWT) | **React.js** (Hooks, Context API) | **PostgreSQL** & **SQL Server** |
+| **Node.js** (Express, Mocha/Chai) | **React Native** (Expo) | **MongoDB** (Mongoose) |
+| **C#** (.NET MVC, Entity Framework) | **Tailwind CSS** & HTML5/CSS3 | **Git & GitHub** |
+
+---
+
+### 📂 Proyectos Destacados
+
+* **[FitManager SaaS](https://github.com/MatiasTello14/FitManager-SaaS):** Sistema integral para gestión de gimnasios (Spring Boot + React + PostgreSQL).
+* **[Spendly](https://github.com/MatiasTello14/SpendlyFrontEndApp):** App móvil de finanzas personales con cotización de dólar en tiempo real (React Native + Node.js).
+* **[El Club de la Hamburguesa](https://github.com/MatiasTello14/Club-de-la-Hamburguesa---PNT1):** E-commerce gastronómico con arquitectura .NET MVC.
+
+---
+
+
+### 📫 Contacto
+* **LinkedIn:** https://www.linkedin.com/in/matias-l-tello/
+* **Email:** matiastello1@hotmail.com
+
+---
