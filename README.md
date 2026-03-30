@@ -1,8 +1,8 @@
 # ¡Hola! Soy Matias Tello 👋
 
-### 🚀 Desarrollador Full Stack | Apasionado por el Fitness y la Tecnología
+### 🚀 Desarrollador Full Stack 
 
-Soy un desarrollador enfocado en construir soluciones robustas y escalables. Me especializo en el ecosistema **Java/Spring Boot**, pero cuento con experiencia sólida en **Node.js, .NET y Desarrollo Mobile**. Mi objetivo es aportar valor en equipos dinámicos donde el código de calidad y la mejora continua sean la prioridad.
+Soy un desarrollador enfocado en construir soluciones robustas y escalables. Me especializo en el ecosistema **Java/Spring Boot**, pero cuento con experiencia sólida en **Node.js y Desarrollo Mobile**. Mi objetivo es aportar valor en equipos dinámicos donde el código de calidad y la mejora continua sean la prioridad.
 
 ---
 
