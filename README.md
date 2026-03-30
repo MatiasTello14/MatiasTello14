@@ -2,7 +2,7 @@
 
 ### 🚀 Desarrollador Full Stack 
 
-Soy un desarrollador enfocado en construir soluciones robustas y escalables. Me especializo en el ecosistema **Java/Spring Boot**, pero cuento con experiencia sólida en **Node.js y Desarrollo Mobile**. Mi objetivo es aportar valor en equipos dinámicos donde el código de calidad y la mejora continua sean la prioridad.
+Soy un desarrollador enfocado en construir soluciones robustas y escalables. Me especializo en el ecosistema **Java/Spring Boot** y tengo conocimientos en otras tecnologías como **Node.js y desarrollo mobile**, adquiridas en proyectos académicos y personales. Mi objetivo es aportar valor en equipos dinámicos donde el código de calidad y la mejora continua sean la prioridad.
 
 ---
 
