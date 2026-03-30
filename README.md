@@ -19,8 +19,8 @@ Soy un desarrollador enfocado en construir soluciones robustas y escalables. Me 
 ### 📂 Proyectos Destacados
 
 * **[FitManager SaaS](https://github.com/MatiasTello14/FitManager-SaaS):** Sistema integral para gestión de gimnasios (Spring Boot + React + PostgreSQL).
-* **[Frontend (React Native)](https://github.com/MatiasTello14/SpendlyFrontEndApp) | [Backend (Node.js)](https://github.com/MatiasTello14/SpendlyBackendApp):** App móvil de finanzas personales con cotización de dólar en tiempo real (React Native + Node.js).
-* **[El Club de la Hamburguesa](https://github.com/MatiasTello14/Club-de-la-Hamburguesa---PNT1):** E-commerce gastronómico con arquitectura .NET MVC.
+* **[Frontend (React Native)](https://github.com/MatiasTello14/SpendlyFrontEndApp) | [Backend (Node.js)](https://github.com/MatiasTello14/SpendlyBackendApp):** App móvil de finanzas personales con cotización de dólar en tiempo real (React Native, Node.js (Express.Js), MongoDB).
+* **[El Club de la Hamburguesa](https://github.com/MatiasTello14/Club-de-la-Hamburguesa---PNT1):** E-commerce gastronómico con arquitectura ASP.NET MVC, Razor.
 
 ---
 
