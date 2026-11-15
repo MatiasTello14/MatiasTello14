@@ -2,7 +2,7 @@
 
 ### Desarrollador Java Full Stack
 
-Analista de Sistemas (Instituto ORT, egreso previsto dic. 2026) con foco en backend con **Java y Spring Boot**. En mi proyecto final trabajé, en equipo, sobre una plataforma de screening de listas internacionales de sanciones para un cliente real: la pusimos en marcha, le sumamos un frontend en React y búsqueda híbrida léxica + vectorial con IA. También tengo proyectos personales y académicos con React, React Native y Node.js.
+Analista de Sistemas (Instituto ORT, dic. 2026) con foco en backend con **Java y Spring Boot**. En mi proyecto final trabajé, en equipo, sobre una plataforma de screening de listas internacionales de sanciones para un cliente real: la pusimos en marcha, le sumamos un frontend en React y búsqueda híbrida léxica + vectorial con IA. También tengo proyectos personales y académicos con React, React Native y Node.js.
 
 Busco mi primera posición como desarrollador Java.
 
