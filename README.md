@@ -1,32 +1,33 @@
-# ¡Hola! Soy Matias Tello 👋
+# Matías Tello
 
-### 🚀 Desarrollador Full Stack 
+### Desarrollador Java Full Stack
 
-Soy un desarrollador enfocado en construir soluciones robustas y escalables. Me especializo en el ecosistema **Java/Spring Boot** y tengo conocimientos en otras tecnologías como **Node.js y desarrollo mobile**, adquiridas en proyectos académicos y personales. Mi objetivo es aportar valor en equipos dinámicos donde el código de calidad y la mejora continua sean la prioridad.
+Analista de Sistemas (Instituto ORT, egreso previsto dic. 2026) con foco en backend con **Java y Spring Boot**. En mi proyecto final trabajé, en equipo, sobre una plataforma de screening de listas internacionales de sanciones para un cliente real: la pusimos en marcha, le sumamos un frontend en React y búsqueda híbrida léxica + vectorial con IA. También tengo proyectos personales y académicos con React, React Native y Node.js.
+
+Busco mi primera posición como desarrollador Java.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### Stack
 
-| Backend | Frontend & Mobile | Bases de Datos & Tools |
+| Backend | Frontend y mobile | Datos, IA y herramientas |
 | :--- | :--- | :--- |
-| **Java** (Spring Boot, Security, JWT) | **React.js** (Hooks, Context API) | **PostgreSQL** & **SQL Server** |
-| **Node.js** (Express, Mocha/Chai) | **React Native** (Expo) | **MongoDB** (Mongoose) |
-| **C#** (.NET MVC, Entity Framework) | **Tailwind CSS** & HTML5/CSS3 | **Git & GitHub** |
+| **Java** (Spring Boot, Spring Security, JWT, Hibernate/JPA) | **React** (Hooks, Context API) y Vite | **PostgreSQL**, **SQL Server** y **MongoDB** |
+| **Python** (búsqueda vectorial, BGE-M3) | **React Native** (Expo) | **Qdrant** y **Apache Lucene** |
+| **Node.js** (Express, Mocha/Chai) y **C#** (.NET MVC) | **Tailwind CSS**, HTML5 y CSS3 | **Docker**, Swagger, **Git** y **GitHub** |
 
 ---
 
-### 📂 Proyectos Destacados
+### Proyectos
 
-* **[FitManager SaaS](https://github.com/MatiasTello14/FitManager-SaaS):** Sistema integral para gestión de gimnasios (Spring Boot + React + PostgreSQL).
-* **[Frontend (React Native)](https://github.com/MatiasTello14/SpendlyFrontEndApp) | [Backend (Node.js)](https://github.com/MatiasTello14/SpendlyBackendApp):** App móvil de finanzas personales con cotización de dólar en tiempo real (React Native, Node.js (Express.Js), MongoDB).
-* **[El Club de la Hamburguesa](https://github.com/MatiasTello14/Club-de-la-Hamburguesa---PNT1):** E-commerce gastronómico con arquitectura ASP.NET MVC, Razor.
-
----
-
-
-### 📫 Contacto
-* **LinkedIn:** https://www.linkedin.com/in/matias-l-tello/
-* **Email:** matiastello1@hotmail.com
+* **SmartLists** (proyecto final ORT, en equipo, para un cliente real): plataforma de screening contra listas internacionales de sanciones. Recuperamos y dockerizamos el sistema recibido (Java, Spring Boot, Docker), desarrollamos paneles por rol en React y sumamos búsqueda híbrida léxica + vectorial (Python, Qdrant). Repositorio privado.
+* **[FitManager SaaS](https://github.com/MatiasTello14/FitManager-SaaS)** (proyecto personal): gestión de gimnasios con dashboard de ingresos y morosidad, JWT y API documentada con Swagger (Spring Boot, React, PostgreSQL).
+* **Spendly** (proyecto académico, en equipo): app mobile de finanzas personales con conversión ARS/USD en tiempo real, [frontend](https://github.com/MatiasTello14/SpendlyFrontEndApp) (React Native) y [backend](https://github.com/MatiasTello14/SpendlyBackendApp) (Node.js, Express, MongoDB).
+* **[El Club de la Hamburguesa](https://github.com/MatiasTello14/Club-de-la-Hamburguesa---PNT1)** (proyecto académico, en equipo): e-commerce gastronómico con ASP.NET MVC y Razor.
 
 ---
+
+### Contacto
+
+* **LinkedIn:** [linkedin.com/in/matias-l-tello](https://www.linkedin.com/in/matias-l-tello/)
+* **Email:** matiastello182@gmail.com
